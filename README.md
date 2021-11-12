@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NikhilSalvi12
+- 👋 Hi, I’m Nikhil Salvi
 - 👀 I’m interested in Learing new things
-- 🌱 I’m currently learning Pandas
+- 🌱 I'm currently exploring Datascience
 - 💞️ I’m looking to collaborate and learn
 
 
