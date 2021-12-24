@@ -2,7 +2,7 @@
 * Completed BSC (Statistics)👨‍🎓
 * 👀 Curious, Quick learner, exploring life.
 
-- 🙇‍♂️ Current Interest in DataScience and Machine Learning.
+- 🙇‍♂️ Current Interests : DataScience and Machine Learning.
 
 # Languages I Know:
 1. Python
